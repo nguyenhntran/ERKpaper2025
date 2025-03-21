@@ -1,0 +1,6 @@
+CASE 7 ERK* OUTPUT: 
+
+Total area under curve from 90 mins to 150 mins = 268.124 (units: (unitless concentration)*(s)) 
+Average concentration from 90 mins to 150 mins = = 0.0744789 (units: unitless concentration) 
+
+Equilibrium ERK* concentration from timecourse simulation (ie. DC output term) = 0.0655681 (units: unitless concentration)

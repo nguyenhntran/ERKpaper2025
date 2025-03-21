@@ -1,0 +1,5 @@
+CASE 8 ERK* OUTPUT (ADJUSTED): 
+
+Total area under curve from 90 mins to 150 mins = 114.069 (units: (unitless concentration)*(s)) 
+Average concentration from 90 mins to 150 mins = = 0.0316859 (units: unitless concentration) 
+
